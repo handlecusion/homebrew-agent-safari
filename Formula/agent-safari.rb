@@ -1,8 +1,8 @@
 class AgentSafari < Formula
   desc "Native macOS Safari/WebKit agentic browser CLI and daemon"
   homepage "https://github.com/handlecusion/agent-safari"
-  url "https://github.com/handlecusion/agent-safari/archive/refs/tags/v0.0.7.tar.gz"
-  sha256 "03122004f4ef42c15399b101b8de60ec17943031a914999f6a15fb5e9e8dba14"
+  url "https://github.com/handlecusion/agent-safari/archive/refs/tags/v0.0.8.tar.gz"
+  sha256 "0143a85195f2d8a4e2d57b8ce937d1aa893aca6379ac128ae1e50b911b8c5c2f"
   license "MIT"
   head "https://github.com/handlecusion/agent-safari.git", branch: "main"
 
